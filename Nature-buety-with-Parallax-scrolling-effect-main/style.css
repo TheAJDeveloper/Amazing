@@ -1,0 +1,161 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(https://www.popphoto.com/uploads/2022/08/19/stability-ai-landscape.jpg?auto=webp);
+
+  min-height: 100%;
+}
+.pimg2 {
+  background-image: url(https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Trees_2.jpeg);
+  min-height: 400px;
+}
+.pimg3 {
+  background-image: url(https://www.sei.org/wp-content/uploads/2022/06/lukasz-szmigiel-jfcviyfycus-unsplash.jpg);
+  min-height: 400px;
+}
+.pimg4 {
+  background-image: url(https://cdn.pixabay.com/photo/2022/09/27/19/46/ai-generated-7483594_1280.jpg);
+  min-height: 400px;
+}
+.pimg5 {
+  background-image: url(https://cdn.pixabay.com/photo/2022/12/21/21/49/ai-generated-7670948_1280.jpg);
+  min-height: 400px;
+}
+
+.pimg6 {
+  background-image: url(https://cdn.pixabay.com/photo/2022/12/21/22/03/ai-generated-7671066_1280.jpg);
+  min-height: 400px;
+}
+.pimg7 {
+  background-image: url(https://cdn.pixabay.com/photo/2022/09/27/19/46/ai-generated-7483596_960_720.jpg);
+  min-height: 400px;
+}
+.pimg8 {
+  background-image: url(https://img.freepik.com/premium-photo/fantasy-alien-planetgenerative-ai_391052-20246.jpg?size=626&ext=jpg);
+  min-height: 400px;
+}
+.pimg9 {
+  background-image: url(https://miro.medium.com/v2/resize:fit:1400/0*vqAfnQ5T2rzi7Nzn);
+  min-height: 400px;
+}
+.pimg10 {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/024/100/640/large_2x/beautiful-image-of-freshness-of-nature-ai-generated-free-photo.jpg);
+  min-height: 400px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4,
+.pimg5,
+.pimg6,
+.pimg7,
+.pimg8,
+.pimg9,
+.pimg10 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg {
+  background-color: rgba(255, 255, 255, 0.13);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  backdrop-filter: blur(3px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 9px 9px;
+  font-size: 19px;
+}
+
+.textBg1 {
+  background-color: rgba(255, 255, 255, 0.13);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  backdrop-filter: blur(3px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 35px 25px;
+}
+
+.textBgg {
+  background-color: #73b0ed;
+  padding: 8px;
+  border-radius: 10px;
+  color: black;
+}
+
+.section_1 {
+  padding: 50px 80px;
+  font-family: "Ysabeau Infant", sans-serif;
+  text-align: center;
+}
+
+.section_2 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_3 {
+  background-color: #f4f4f4;
+  color: #666;
+  padding-left: 11px;
+}
+.section_4 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_5 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_6 {
+  padding-left: 11px;
+  background-color: #f4f4f4;
+  color: #666;
+}
+.section_7 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_8 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_9 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
+.section_10 {
+  background-color: #f4f4f4;
+  padding-left: 11px;
+  color: #666;
+}
